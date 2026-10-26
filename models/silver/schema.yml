@@ -1,0 +1,1 @@
+{{ dbt_expectations.test_expect_column_value_lengths_to_be_between(**_dbt_generic_test_kwargs) }}{{ config(alias="dbt_expectations_expect_column_d3dfcb6a75e146e6e9f0bec05221b6e1") }}
